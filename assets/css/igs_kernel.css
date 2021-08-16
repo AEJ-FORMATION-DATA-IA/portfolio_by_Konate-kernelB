@@ -1,0 +1,171 @@
+.igs_font-family_html_body{
+	font-family: ;
+}
+.igs_txt-align_center_html_body{
+	text-align: center;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+/*section de presentation*/
+.igs_top0 {
+	top: 0;
+}
+.igs_bg_img{
+	/*background: #e0ebe8;*/
+	background-image: url(../images/11.jpg);
+}
+.igs_min-height_55vh{
+	min-height: 55vh;
+}
+.igs_padding-top_45vh{
+	padding-top: 45vh;
+}
+.igs_color_darkred{
+	color: #ff0000;
+}
+/*la barre de navigation*/
+.igs_txt-align_right{
+	text-align: right;
+}
+.igs_position_fixed{
+	position: fixed;
+}
+.igs_width_100pourc{
+	width: 100%;
+}
+.igs_bg-color_black{
+	background-color: #000;
+}
+.igs_display_inline-block{
+	display: inline-block;
+}
+.igs_margin_55px {
+	margin: 55px;
+}
+.igs_margin-bottom_15px{
+	margin-bottom: 15px;
+}
+.igs_margin-top25px{
+	margin-top: 25px;
+}
+/*pour le a*/
+.igs_color_blanc{
+	color: #fff;
+}
+.igs_txt-decoration_none{
+	text-decoration: none;
+}
+/*le a avec hover*/
+.igs_color_hover_grey:hover{
+	color: #15f8f8;
+}
+/*mes realisations*/
+.igs_work_padding-top_60px{
+	padding-top: 60px;
+}
+.igs_margin-top_negative60px{
+	margin-top: -60px;
+}
+.igs_work-header_margin-top50px{
+	margin-top: 50px;
+}
+.igs_work-header_color_yellow{
+	color: #fc0404;
+}
+.igs_font-weight-normal{
+	font-weight: normal;
+}
+.igs_font-size_40px{
+	font-size: 4opx;
+}
+.igs_font-size_45px{
+	font-size: 45px;
+}
+.igs_project_txt-decoration_none{
+	text-decoration: none;
+}
+.igs_project_height_220px {
+	height: 220px;
+}
+.igs_project_width_280px{
+		width: 280px;
+}
+.igs_border_2px_solid_lightblue{
+	border: 2px solid #000;
+}
+.igs_bg-color_maroon{
+	color: rgba(92, 2, 2, 0.993);
+}
+.igs_margin_40px-100px{
+	margin: 40px 100px;
+}
+.igs_project-title{
+  font-weight: bold;
+}
+.igs_project-pic_width100pourc{
+	width: 100%;
+}
+.igs_project-pic_height180px{
+	height: 180px;
+}
+.igs_border-bottom_2px_solid_yellow{
+	border-bottom: 2px solid #000;
+}
+.igs_display_block{
+	display: block;
+}
+.igs_width_200px{
+	width: 200px;
+}
+.igs_height_30px{
+	height: 30px;
+}
+.igs_margin_20px-auto-90px{
+	margin: 20px auto 90px;
+}
+.igs_bg_color_white{
+	background-color: #fff;
+}
+.igs_color_008080{
+	color: #008080;
+}
+.igs_font-weight_bold{
+	font-weight: bold;
+}
+.igs_font-size_1em{
+	font-size: 1em;
+}
+.igs_border_2px-solid-90C695{
+	border: 2px solid #90C695;
+}
+.igs_border-radius_4px{
+	border-radius: 4px;
+}
+.igs_cursor_pointer{
+	cursor: pointer;
+}
+.igs_padding-top_10px{
+	padding-top: 10px;
+}
+.igs_show-all_hover:hover{
+	background-color: #848485;
+}
+.igs_show-all_hover:hover{
+	color: #000;
+}
+@media only screen and (max-width: 500px){
+
+	.igs_media_ul_txt-align_center{
+		text-align: center;
+	}
+	.igs_nav_ul_li{
+    margin: 20px;
+  }
+  .igs_project_margin-40-0{
+  	margin: 40px 0;
+  }
+  
+
+}
